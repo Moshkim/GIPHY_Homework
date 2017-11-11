@@ -1,0 +1,11 @@
+.col-4 {
+	flex: 0 0 33%;
+	max-width: 33%;
+	text-align: center;
+}
+
+.imageBoxes{
+	display: flex;
+	max-width: 100%;
+	overflow: auto;
+}
